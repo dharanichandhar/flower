@@ -12,11 +12,10 @@
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-router-dom": "^7.6.3",
+    "react-router-dom": "^6.22.3",
     "styled-components": "^6.1.19",
-    "swiper": "^11.2.10" ,
-      "vite": "^5.0.0"
-
+    "swiper": "^11.2.10",
+    "vite": "^5.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.30.1",
@@ -27,9 +26,6 @@
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.20",
     "globals": "^16.3.0",
-    
-  "vite": "^5.0.0" // or whatever version you're using
-
-
+    "vite": "^5.0.0"
   }
 }
