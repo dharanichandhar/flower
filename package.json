@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "react-router-dom": "^7.6.3",
-    "better-react-carousel": "^x.y.z"
+    "better-react-carousel": "^1.0.0"
  
   },
   "scripts": {
