@@ -1,6 +1,10 @@
 {
   "dependencies": {
     "react-router-dom": "^7.6.3"
+    "devDependencies": {
+  "vite": "^5.0.0" // or whatever version you're using
+}
+
   },
   "scripts": {
     "start": "react-scripts start",
